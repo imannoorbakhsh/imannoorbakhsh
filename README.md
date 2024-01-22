@@ -1,15 +1,13 @@
-### Hi there 👋
-Iman Noorbakhsh here. A rather UX Engineer who is fluent in UI development, UX design, and research. 
+## Hi there 👋
+I'm Iman Noorbakhsh, a UX Engineer who is fluent in Software development, UX design, and research.
 
-
-**What are you up to recently**
+## <img width="25" height="25" src="https://img.icons8.com/office/25/thinking-male--v1.png" alt="thinking-male--v1"/> What are you up to recently
 - Expanding my knowledge of react and typescript
 - Completing a comprehensive Google UX design certificate course
 - Exploring Phd and research opportunities in the public and private sector
 - More...
 
-
-### 🛠 &nbsp;Tech Stack
+## <img width="25" height="25" src="https://img.icons8.com/color/25/maintenance.png" alt="maintenance"/> Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
@@ -24,24 +22,13 @@ Iman Noorbakhsh here. A rather UX Engineer who is fluent in UI development, UX d
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
+![SurveyMonkey](https://img.shields.io/badge/-SurveyMonkey-05122A?style=flat&logo=surveymonkey)&nbsp;
 
-
-### 🚀 Languages and Tools :
-</br>
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/512/tailwindcss.png" width="48" height="48"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>   
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
-    <a href="https://github.com/ritik2629" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-</p>
-</div>
-
+## <img width="25" height="25" src="https://img.icons8.com/color/25/mailbox-closed-flag-down--v1.png" alt="mailbox-closed-flag-down--v1"/> How to reach me
+[![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin)](http://www.linkedin.com/in/imannoorbakhsh)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=microsoftoutlook)](mailto:imannoorbakhsh@outlook.com)
