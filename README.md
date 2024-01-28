@@ -30,5 +30,5 @@ I'm Iman Noorbakhsh, a UX Engineer who is fluent in Software development, UX des
 ![SurveyMonkey](https://img.shields.io/badge/-SurveyMonkey-05122A?style=flat&logo=surveymonkey)&nbsp;
 
 ## <img width="25" height="25" src="https://img.icons8.com/color/25/mailbox-closed-flag-down--v1.png" alt="mailbox-closed-flag-down--v1"/> How to reach me
-[![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin)](http://www.linkedin.com/in/imannoorbakhsh)
+<a href="http://www.linkedin.com/in/imannoorbakhsh" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin"></a>
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=microsoftoutlook)](mailto:imannoorbakhsh@outlook.com)
