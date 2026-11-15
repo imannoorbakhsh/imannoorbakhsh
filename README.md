@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Iman Noorbakhsh, Software development following user-center design approached. hands on experience in data integration, containerization, Azure networking and infrastructure. 
+I'm Iman Noorbakhsh, Software developer following user-center design approaches. hands on experience in data integration, containerization, Azure networking and infrastructure. 
 
 ## <img width="25" height="25" src="https://img.icons8.com/office/25/thinking-male--v1.png" alt="thinking-male--v1"/> What are you up to recently
 - Expanding my knowledge of react and typescript
