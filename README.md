@@ -1,29 +1,17 @@
-## Hi there 👋
-I'm Iman Noorbakhsh, Software developer following user-center design approaches. hands on experience in data integration, containerization, Azure networking and infrastructure. 
+<div align="center">
 
+<a href="https://github.com/imannoorbakhsh">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/dark_mode.svg">
+    <img alt="Iman Noorbakhsh - Research Engineer" src="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/light_mode.svg">
+  </picture>
+</a>
 
-## <img width="25" height="25" src="https://img.icons8.com/color/25/maintenance.png" alt="maintenance"/> Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
-![SurveyMonkey](https://img.shields.io/badge/-SurveyMonkey-05122A?style=flat&logo=surveymonkey)&nbsp;
+<p align="left"><a href="https://github.com/imannoorbakhsh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/link_portfolio_dark.svg"><img alt="Portfolio" width="33.3%" src="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/link_portfolio_light.svg"></picture></a><a href="http://www.linkedin.com/in/imannoorbakhsh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/link_linkedin_dark.svg"><img alt="LinkedIn" width="33.3%" src="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/link_linkedin_light.svg"></picture></a><a href="mailto:imannoorbakhsh@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/link_email_dark.svg"><img alt="Email" width="33.3%" src="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/link_email_light.svg"></picture></a></p>
 
-## <img width="25" height="25" src="https://img.icons8.com/color/25/mailbox-closed-flag-down--v1.png" alt="mailbox-closed-flag-down--v1"/> How to reach me
-[![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin)](http://www.linkedin.com/in/imannoorbakhsh)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=microsoftoutlook)](mailto:imannoorbakhsh@outlook.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/pacman_dark.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/imannoorbakhsh/imannoorbakhsh/main/pacman_light.svg">
+</picture>
+
+</div>
