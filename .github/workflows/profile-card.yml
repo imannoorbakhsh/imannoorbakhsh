@@ -36,6 +36,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Fetch GitHub stats
         env:
           # The built-in token covers all public figures. Add a personal
